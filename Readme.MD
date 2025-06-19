@@ -3,8 +3,11 @@
 ## How to run
 
 1. download the dataset with download_voc.sh
+
     It seems the dataset download link doesn't exits.
+
     Use the train_aug.txt file that I attached.
+
 2. check the dataset directory and change the command template of argparsers.py
 ```
     parser.add_argument("--data_root", type=str, default='/scratch/kona419/Incrementer/VOCdevkit/',  help="path to Dataset")
