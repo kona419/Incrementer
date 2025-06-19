@@ -1,4 +1,4 @@
-This unofficial code of "Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class"
+##This unofficial code of "Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class"
 
 1. download the dataset with download_voc.sh
     It seems the dataset download link doesn't exits.
@@ -11,3 +11,19 @@ This unofficial code of "Incrementer: Transformer for Class-Incremental Semantic
 4. check all directory in run.sh and change into your own directory.
 
 5. run run.sh
+
+## BibTex
+```
+@inproceedings{shang2023incrementer,
+  title={Incrementer: Transformer for class-incremental semantic segmentation with knowledge distillation focusing on old class},
+  author={Shang, Chao and Li, Hongliang and Meng, Fanman and Wu, Qingbo and Qiu, Heqian and Wang, Lanxiao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7214--7224},
+  year={2023}
+}
+```
+
+## Acknowlegements
+
+This code is based on [timm](https://github.com/rstrudel/segmenter) library and the semantic segmentation training and evaluation pipeline 
+is using [mmsegmentation](https://github.com/open-mmlab/mmsegmentation).
