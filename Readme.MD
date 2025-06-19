@@ -1,4 +1,6 @@
-##This unofficial code of "Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class"
+## This unofficial code of "Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class"
+
+## How to run
 
 1. download the dataset with download_voc.sh
     It seems the dataset download link doesn't exits.
