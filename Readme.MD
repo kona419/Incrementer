@@ -32,5 +32,5 @@
 
 ## Acknowlegements
 
-This code is based on [timm](https://github.com/rstrudel/segmenter) library and the semantic segmentation training and evaluation pipeline 
+This code is based on [Segmenter](https://github.com/rstrudel/segmenter) library and the semantic segmentation training and evaluation pipeline 
 is using [mmsegmentation](https://github.com/open-mmlab/mmsegmentation).
