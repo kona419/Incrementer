@@ -24,9 +24,7 @@
 
 ## Result
 
-| Method     | Frame | 19-1 (2 steps) Disjoint    |       |       | 19-1 (2 steps) Overlapped |       |       | 15-5 (2 steps) Disjoint    |       |       | 15-5 (2 steps) Overlapped |       |       | 15-1 (6 steps) Disjoint    |       |       | 15-1 (6 steps) Overlapped |       |       |
-|------------|-------| 1-19 | 20   | all  | 1-19 | 20   | all  | 1-15 | 16-20 | all | 1-15 | 16-20 | all | 1-15 | 16-20 | all | 1-15 | 16-20 | all |
-| EWC† [20]  |       | 23.20 | 16.00 | 22.90 | 26.90 | 14.00 | 26.30 | 26.70 | 37.70 | 29.40 | 24.30 | 35.50 | 27.10 | 0.30 | 4.30 | 1.30 | 0.30 | 4.30 | 1.30 |
+
 
 
 ## BibTex
