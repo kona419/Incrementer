@@ -24,7 +24,7 @@
 
 ## Result
 <img width="1608" height="187" alt="Image" src="https://github.com/user-attachments/assets/e0b24e89-6344-4191-9de7-35f93f9656a9" />
-<img width="900" height="100" alt="Image" src="https://github.com/user-attachments/assets/f829caf6-c132-410d-afbe-ad66543c14dc" />
+<img width="750" height="100" alt="Image" src="https://github.com/user-attachments/assets/f829caf6-c132-410d-afbe-ad66543c14dc" />
 
 
 ## BibTex
